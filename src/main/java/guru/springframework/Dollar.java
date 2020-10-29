@@ -2,6 +2,7 @@ package guru.springframework;
 
 public class Dollar {
     int amount;
+    //this is comment for change
     public Dollar(int amount){
         this.amount = amount;
     }
